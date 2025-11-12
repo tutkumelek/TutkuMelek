@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react ,next ,tailwindcss**
 
-- 📫 How to reach me **tutkurnmlk@gmail.com**
+- 📫 How to reach me **melek.rn.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
